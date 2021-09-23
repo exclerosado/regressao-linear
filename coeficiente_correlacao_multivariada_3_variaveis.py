@@ -1,5 +1,5 @@
 '''
-Aplicação de Regressão Linear Múltivariada
+Aplicação de Regressão Linear Multivariada
 Utilização com 3 variáveis
 Autor: Alef Matias
 '''
