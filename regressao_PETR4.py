@@ -1,4 +1,5 @@
 """
+Autor: Alef Matias
 Aplicação de Regressão Linear Múltipla em Ações
 Empresa utilizada: PETROBRAS
 Código do papel: PETR4
